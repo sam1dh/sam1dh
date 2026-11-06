@@ -24,3 +24,6 @@
 </p>
 
 <img src="assets/cards/goodbye.svg" width="100%" alt="A blonde girl in a school shirt smiling — thanks for stopping by. Let's build something that talks back!">
+<p align="center">
+  <img src="assets/birthday-bear.gif" width="120" alt="A tiny birthday bear in a pig costume taking a bow — feliz cumpleaños!">
+</p>
