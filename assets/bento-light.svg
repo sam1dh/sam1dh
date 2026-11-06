@@ -16,7 +16,7 @@
 
 
 <rect class="pe" x="20" y="20" width="422" height="254" rx="18"/>
-<g><circle class="av" cx="78" cy="84" r="32" stroke-width="3"/><text class="pe1" x="78" y="91" font-size="20" font-weight="600" text-anchor="middle">SD</text><animateTransform attributeName="transform" type="translate" values="0 0;0 -5;0 0" dur="3s" repeatCount="indefinite"/></g>
+<g><circle class="av" cx="78" cy="84" r="32" stroke-width="3"/><rect class="pe1" x="66" y="79" width="4" height="10" rx="2"/><rect class="pe1" x="72" y="74" width="4" height="20" rx="2"/><rect class="pe1" x="78" y="70" width="4" height="28" rx="2"/><rect class="pe1" x="84" y="74" width="4" height="20" rx="2"/><rect class="pe1" x="90" y="79" width="4" height="10" rx="2"/><animateTransform attributeName="transform" type="translate" values="0 0;0 -5;0 0" dur="3s" repeatCount="indefinite"/></g>
 <text class="pe1" x="126" y="84" font-size="28" font-weight="600">Hi, I'm Sameen</text>
 <text class="pe2" x="127" y="108" font-size="14">@sam1dh</text>
 <text class="pe1" x="44" y="174" font-size="18" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" clip-path="url(#tw)">I build voice agents.</text>
@@ -33,8 +33,8 @@
 
 <rect class="pk" x="674" y="20" width="204" height="120" rx="18"/>
 <g transform="translate(776 58)"><polygon class="st" points="0,-22 5.3,-7.3 20.9,-6.8 8.6,2.8 12.9,17.8 0,9 -12.9,17.8 -8.6,2.8 -20.9,-6.8 -5.3,-7.3"><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="8s" repeatCount="indefinite"/></polygon></g>
-<text class="pk1" x="776" y="110" font-size="15" font-weight="600" text-anchor="middle">3rd of 650+ teams</text>
-<text class="pk1" x="776" y="128" font-size="12" text-anchor="middle">Blostem AI Builder</text>
+<text class="pk1" x="776" y="110" font-size="15" font-weight="600" text-anchor="middle">4 projects live</text>
+<text class="pk1" x="776" y="128" font-size="12" text-anchor="middle">deployed and testable</text>
 
 <rect class="mi" x="456" y="154" width="204" height="120" rx="18"/>
 <text class="mi2" x="478" y="186" font-size="14">Internships</text>
