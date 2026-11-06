@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="220" viewBox="0 0 900 220" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif">
+<style>.tx{fill:#1f2328}.mu{fill:#59636e}.t2{fill:#424a53}.rl{stroke:#d8dee4}.d1{fill:#7f77dd}.d2{fill:#ef9f27}.d3{fill:#1d9e75}
+@media (prefers-color-scheme:dark){.tx{fill:#e6edf3}.mu{fill:#8b949e}.t2{fill:#c9d1d9}.rl{stroke:#30363d}.d1{fill:#afa9ec}.d2{fill:#fac775}.d3{fill:#5dcaa5}}</style>
+<circle class="d1" cx="30" cy="30" r="6"/>
+<text x="48" y="36"><tspan class="tx" font-size="18" font-weight="600">Blostem Fintech</tspan><tspan class="mu" font-size="14"> · Software Developer Intern</tspan></text>
+<text class="mu" x="878" y="36" font-size="13" text-anchor="end">May – Aug 2026</text>
+<text class="t2" x="48" y="62" font-size="15">Built the RAG pipeline behind VoiceBrew's live voice agents, in production</text>
+<line class="rl" x1="20" y1="84" x2="878" y2="84"/>
+<circle class="d2" cx="30" cy="102" r="6"/>
+<text x="48" y="108"><tspan class="tx" font-size="18" font-weight="600">Here2Answer</tspan><tspan class="mu" font-size="14"> · Manual QA Intern</tspan></text>
+<text class="mu" x="878" y="108" font-size="13" text-anchor="end">Feb – Mar 2026</text>
+<text class="t2" x="48" y="134" font-size="15">Owned QA for client web apps and built Selenium + Playwright regression suites</text>
+<line class="rl" x1="20" y1="156" x2="878" y2="156"/>
+<circle class="d3" cx="30" cy="174" r="6"/>
+<text x="48" y="180"><tspan class="tx" font-size="18" font-weight="600">amasQIS.ai</tspan><tspan class="mu" font-size="14"> · Full-Stack Developer Intern</tspan></text>
+<text class="mu" x="878" y="180" font-size="13" text-anchor="end">May – Oct 2025</text>
+<text class="t2" x="48" y="206" font-size="15">Built real-time geospatial dashboards for a green-hydrogen monitoring platform</text>
+</svg>

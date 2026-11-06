@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="60" viewBox="0 0 900 60" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif">
+<style>.pe{fill:#ffe4dc}.pe1{fill:#7a2e1a}.pe2{fill:#d85a30}.ye{fill:#fff4d6}.ye1{fill:#633806}.ye2{fill:#ba7517}.la{fill:#ece8ff}.la1{fill:#3c3489}.la2{fill:#7f77dd}
+@media (prefers-color-scheme:dark){.pe{fill:#3d1f17}.pe1{fill:#f5c4b3}.pe2{fill:#f0997b}.ye{fill:#412402}.ye1{fill:#fac775}.ye2{fill:#ef9f27}.la{fill:#26215c}.la1{fill:#cecbf6}.la2{fill:#afa9ec}}</style>
+<rect class="pe" x="20" y="6" width="290" height="48" rx="24"/><circle class="pe2" cx="44" cy="30" r="5"/>
+<text class="pe1" x="58" y="35" font-size="14"><tspan font-weight="600">3rd of 650+</tspan> · Blostem AI Builder</text>
+<rect class="ye" x="324" y="6" width="255" height="48" rx="24"/><circle class="ye2" cx="348" cy="30" r="5"/>
+<text class="ye1" x="362" y="35" font-size="14"><tspan font-weight="600">Winner</tspan> · SIH internal round</text>
+<rect class="la" x="593" y="6" width="268" height="48" rx="24"/><circle class="la2" cx="617" cy="30" r="5"/>
+<text class="la1" x="631" y="35" font-size="14"><tspan font-weight="600">Finalist</tspan> · SanDisk Hackathon</text>
+</svg>

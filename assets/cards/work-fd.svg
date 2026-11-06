@@ -10,7 +10,7 @@
 <text class="t2" x="36" y="116" font-size="14">Vernacular voice advisor for fixed deposits,</text>
 <text class="t2" x="36" y="136" font-size="14">with multilingual speech in and out.</text>
 <g font-size="12" text-anchor="middle">
-<rect class="ch" x="36" y="152" width="76" height="26" rx="13"/><text class="t1" x="74" y="170">Gemma-2B</text>
+<rect class="ch" x="36" y="152" width="76" height="26" rx="13"/><text class="t1" x="74" y="170">GPT-3.5</text>
 <rect class="ch" x="120" y="152" width="55" height="26" rx="13"/><text class="t1" x="147.5" y="170">FAISS</text>
 <rect class="ch" x="183" y="152" width="76" height="26" rx="13"/><text class="t1" x="221" y="170">Deepgram</text>
 <rect class="ch" x="267" y="152" width="83" height="26" rx="13"/><text class="t1" x="308.5" y="170">Sarvam AI</text>

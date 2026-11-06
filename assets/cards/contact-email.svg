@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="450" height="110" viewBox="0 0 450 110" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif">
-<style>.b{fill:#ffe4dc}.t1{fill:#7a2e1a}.t2{fill:#993c1d}
-@media (prefers-color-scheme:dark){.b{fill:#3d1f17}.t1{fill:#f5c4b3}.t2{fill:#f0997b}}</style>
-<rect class="b" x="12" y="10" width="426" height="90" rx="18"/>
-<text class="t2" x="36" y="44" font-size="13">Say hi</text>
-<text class="t1" x="36" y="76" font-size="18" font-weight="600">sameendhanimisetti@gmail.com</text>
-<text class="t1" x="414" y="66" font-size="22" text-anchor="end">→<animateTransform attributeName="transform" type="translate" values="0 0;5 0;0 0" dur="1.6s" repeatCount="indefinite"/></text>
-</svg>
