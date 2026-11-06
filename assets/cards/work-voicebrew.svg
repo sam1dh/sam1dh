@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="190" viewBox="0 0 900 190" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif">
+<style>.b{fill:#ece8ff}.t1{fill:#3c3489}.t2{fill:#534ab7}.ch{fill:#ffffff;fill-opacity:.75}.ok{fill:#1a7f37}
+@media (prefers-color-scheme:dark){.b{fill:#26215c}.t1{fill:#cecbf6}.t2{fill:#afa9ec}.ch{fill:#000000;fill-opacity:.25}.ok{fill:#3fb950}}</style>
+<rect class="b" x="20" y="10" width="858" height="170" rx="18"/>
+<circle class="ok" cx="50" cy="41" r="5"><animate attributeName="r" values="5;11;5" dur="1.6s" repeatCount="indefinite"/><animate attributeName="opacity" values=".5;0;.5" dur="1.6s" repeatCount="indefinite"/></circle>
+<circle class="ok" cx="50" cy="41" r="5"/>
+<text class="t2" x="64" y="46" font-size="13">in production · Blostem Fintech</text>
+<text class="t1" x="44" y="88" font-size="30" font-weight="600">VoiceBrew</text>
+<text class="t2" x="44" y="116" font-size="15">RAG-powered voice agents that handle live phone calls</text>
+<g font-size="13" text-anchor="middle">
+<rect class="ch" x="44" y="136" width="90" height="28" rx="14"/><text class="t1" x="89" y="155">LangChain</text>
+<rect class="ch" x="142" y="136" width="82" height="28" rx="14"/><text class="t1" x="183" y="155">pgvector</text>
+<rect class="ch" x="232" y="136" width="52" height="28" rx="14"/><text class="t1" x="258" y="155">Mem0</text>
+<rect class="ch" x="292" y="136" width="82" height="28" rx="14"/><text class="t1" x="333" y="155">Crawl4AI</text>
+<rect class="ch" x="382" y="136" width="75" height="28" rx="14"/><text class="t1" x="419.5" y="155">Docling</text>
+<rect class="ch" x="465" y="136" width="60" height="28" rx="14"/><text class="t1" x="495" y="155">Redis</text>
+</g>
+<g transform="translate(660 95)"><rect class="t2" x="-3" y="-35" width="6" height="70" rx="3"><animateTransform attributeName="transform" type="scale" values="1 .15;1 1;1 .15" dur="1.2s" begin="0.5s" repeatCount="indefinite"/></rect></g>
+<g transform="translate(676 95)"><rect class="t2" x="-3" y="-35" width="6" height="70" rx="3"><animateTransform attributeName="transform" type="scale" values="1 .15;1 1;1 .15" dur="1.2s" begin="0.4s" repeatCount="indefinite"/></rect></g>
+<g transform="translate(692 95)"><rect class="t2" x="-3" y="-35" width="6" height="70" rx="3"><animateTransform attributeName="transform" type="scale" values="1 .15;1 1;1 .15" dur="1.2s" begin="0.3s" repeatCount="indefinite"/></rect></g>
+<g transform="translate(708 95)"><rect class="t2" x="-3" y="-35" width="6" height="70" rx="3"><animateTransform attributeName="transform" type="scale" values="1 .15;1 1;1 .15" dur="1.2s" begin="0.2s" repeatCount="indefinite"/></rect></g>
+<g transform="translate(724 95)"><rect class="t2" x="-3" y="-35" width="6" height="70" rx="3"><animateTransform attributeName="transform" type="scale" values="1 .15;1 1;1 .15" dur="1.2s" begin="0.1s" repeatCount="indefinite"/></rect></g>
+<g transform="translate(740 95)"><rect class="t2" x="-3" y="-35" width="6" height="70" rx="3"><animateTransform attributeName="transform" type="scale" values="1 .15;1 1;1 .15" dur="1.2s" begin="0s" repeatCount="indefinite"/></rect></g>
+<g transform="translate(756 95)"><rect class="t2" x="-3" y="-35" width="6" height="70" rx="3"><animateTransform attributeName="transform" type="scale" values="1 .15;1 1;1 .15" dur="1.2s" begin="0.1s" repeatCount="indefinite"/></rect></g>
+<g transform="translate(772 95)"><rect class="t2" x="-3" y="-35" width="6" height="70" rx="3"><animateTransform attributeName="transform" type="scale" values="1 .15;1 1;1 .15" dur="1.2s" begin="0.2s" repeatCount="indefinite"/></rect></g>
+<g transform="translate(788 95)"><rect class="t2" x="-3" y="-35" width="6" height="70" rx="3"><animateTransform attributeName="transform" type="scale" values="1 .15;1 1;1 .15" dur="1.2s" begin="0.3s" repeatCount="indefinite"/></rect></g>
+<g transform="translate(804 95)"><rect class="t2" x="-3" y="-35" width="6" height="70" rx="3"><animateTransform attributeName="transform" type="scale" values="1 .15;1 1;1 .15" dur="1.2s" begin="0.4s" repeatCount="indefinite"/></rect></g>
+<g transform="translate(820 95)"><rect class="t2" x="-3" y="-35" width="6" height="70" rx="3"><animateTransform attributeName="transform" type="scale" values="1 .15;1 1;1 .15" dur="1.2s" begin="0.5s" repeatCount="indefinite"/></rect></g>
+</svg>

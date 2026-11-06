@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="450" height="200" viewBox="0 0 450 200" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif">
+<style>.b{fill:#e6f1fb}.t1{fill:#0c447c}.t2{fill:#185fa5}.ch{fill:#ffffff;fill-opacity:.75}.ok{fill:#1a7f37}
+@media (prefers-color-scheme:dark){.b{fill:#042c53}.t1{fill:#b5d4f4}.t2{fill:#85b7eb}.ch{fill:#000000;fill-opacity:.25}.ok{fill:#3fb950}}</style>
+<rect class="b" x="12" y="10" width="426" height="180" rx="18"/>
+<circle class="ok" cx="38" cy="42" r="5"><animate attributeName="r" values="5;11;5" dur="1.6s" repeatCount="indefinite"/><animate attributeName="opacity" values=".5;0;.5" dur="1.6s" repeatCount="indefinite"/></circle>
+<circle class="ok" cx="38" cy="42" r="5"/>
+<text class="t2" x="52" y="47" font-size="13">live · 201 tests</text>
+<text class="t1" x="414" y="48" font-size="20" text-anchor="end">↗<animateTransform attributeName="transform" type="translate" values="0 0;3 -3;0 0" dur="2s" repeatCount="indefinite"/></text>
+<text class="t1" x="36" y="88" font-size="24" font-weight="600">Voice Forms AI</text>
+<text class="t2" x="36" y="116" font-size="14">Voice-first assistant that fills a multi-step</text>
+<text class="t2" x="36" y="136" font-size="14">form hands-free, EN + Hindi, barge-in included.</text>
+<g font-size="12" text-anchor="middle">
+<rect class="ch" x="36" y="152" width="52" height="26" rx="13"/><text class="t1" x="62" y="170">Groq</text>
+<rect class="ch" x="96" y="152" width="76" height="26" rx="13"/><text class="t1" x="134" y="170">Cartesia</text>
+<rect class="ch" x="180" y="152" width="70" height="26" rx="13"/><text class="t1" x="215" y="170">Next.js</text>
+<rect class="ch" x="258" y="152" width="72" height="26" rx="13"/><text class="t1" x="294" y="170">Express</text>
+<rect class="ch" x="338" y="152" width="48" height="26" rx="13"/><text class="t1" x="362" y="170">Zod</text>
+</g>
+</svg>

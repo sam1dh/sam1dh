@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="450" height="110" viewBox="0 0 450 110" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif">
+<style>.b{fill:#e6f1fb}.t1{fill:#0c447c}.t2{fill:#185fa5}
+@media (prefers-color-scheme:dark){.b{fill:#042c53}.t1{fill:#b5d4f4}.t2{fill:#85b7eb}}</style>
+<rect class="b" x="12" y="10" width="426" height="90" rx="18"/>
+<text class="t2" x="36" y="44" font-size="13">Connect</text>
+<text class="t1" x="36" y="76" font-size="18" font-weight="600">LinkedIn · /in/YOUR-HANDLE</text>
+<text class="t1" x="414" y="66" font-size="22" text-anchor="end">→<animateTransform attributeName="transform" type="translate" values="0 0;5 0;0 0" dur="1.6s" repeatCount="indefinite"/></text>
+</svg>

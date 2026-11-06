@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="170" viewBox="0 0 900 170" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif">
+<style>.pb{fill:#ffe4dc}.p1{fill:#7a2e1a}.p2{fill:#993c1d}.yb{fill:#fff4d6}.y1{fill:#633806}.y2{fill:#854f0b}.lb{fill:#ece8ff}.l1{fill:#3c3489}.l2{fill:#534ab7}.ls{fill:none;stroke:#534ab7}
+@media (prefers-color-scheme:dark){.pb{fill:#3d1f17}.p1{fill:#f5c4b3}.p2{fill:#f0997b}.yb{fill:#412402}.y1{fill:#fac775}.y2{fill:#ef9f27}.lb{fill:#26215c}.l1{fill:#cecbf6}.l2{fill:#afa9ec}.ls{stroke:#afa9ec}}</style>
+<rect class="pb" x="20" y="10" width="276" height="150" rx="18"/>
+<g transform="translate(60 58)"><g>
+  <polygon class="p2" points="-12,-32 -4,-32 4,-14 -4,-14"/><polygon class="p2" points="12,-32 4,-32 -4,-14 4,-14"/>
+  <circle class="p1" r="18"/><text class="pb" y="6" font-size="17" font-weight="700" text-anchor="middle">3</text>
+  <animateTransform attributeName="transform" type="rotate" values="-8 0 -32;8 0 -32;-8 0 -32" dur="3s" repeatCount="indefinite"/>
+</g></g>
+<text class="p1" x="36" y="114" font-size="22" font-weight="600">3rd of 650+ teams</text>
+<text class="p2" x="36" y="140" font-size="13">Blostem AI Builder · FD Salahkar</text>
+
+<rect class="yb" x="310" y="10" width="276" height="150" rx="18"/>
+<g transform="translate(350 56)" class="y1"><path d="M-16 -22h32v10a16 16 0 0 1 -32 0z"/><path d="M-4 4h8v10h-8z"/><path d="M-13 14h26v6h-26z"/></g>
+<g transform="translate(374 32)"><path class="y2" d="M0 -7L2 -2L7 0L2 2L0 7L-2 2L-7 0L-2 -2Z"><animateTransform attributeName="transform" type="scale" values=".4;1.2;.4" dur="1.8s" repeatCount="indefinite"/><animate attributeName="opacity" values=".2;1;.2" dur="1.8s" repeatCount="indefinite"/></path></g>
+<g transform="translate(328 72)"><path class="y2" d="M0 -7L2 -2L7 0L2 2L0 7L-2 2L-7 0L-2 -2Z"><animateTransform attributeName="transform" type="scale" values=".4;1.2;.4" dur="1.8s" begin="0.9s" repeatCount="indefinite"/><animate attributeName="opacity" values=".2;1;.2" dur="1.8s" begin="0.9s" repeatCount="indefinite"/></path></g>
+<text class="y1" x="326" y="114" font-size="22" font-weight="600">Winner</text>
+<text class="y2" x="326" y="140" font-size="13">Smart India Hackathon (internal)</text>
+
+<rect class="lb" x="600" y="10" width="278" height="150" rx="18"/>
+<g transform="translate(640 56)">
+  <circle class="ls" r="20" stroke-width="2"><animate attributeName="r" values="20;32" dur="1.8s" repeatCount="indefinite"/><animate attributeName="opacity" values=".7;0" dur="1.8s" repeatCount="indefinite"/></circle>
+  <circle class="l2" r="20"/><circle class="lb" r="13"/><circle class="l1" r="6"/>
+</g>
+<text class="l1" x="616" y="114" font-size="22" font-weight="600">Finalist</text>
+<text class="l2" x="616" y="140" font-size="13">SanDisk Hackathon</text>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="450" height="200" viewBox="0 0 450 200" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif">
+<style>.b{fill:#dff7ee}.t1{fill:#085041}.t2{fill:#0f6e56}.ch{fill:#ffffff;fill-opacity:.75}.ok{fill:#1a7f37}
+@media (prefers-color-scheme:dark){.b{fill:#04342c}.t1{fill:#9fe1cb}.t2{fill:#5dcaa5}.ch{fill:#000000;fill-opacity:.25}.ok{fill:#3fb950}}</style>
+<rect class="b" x="12" y="10" width="426" height="180" rx="18"/>
+<circle class="ok" cx="38" cy="42" r="5"><animate attributeName="r" values="5;11;5" dur="1.6s" repeatCount="indefinite"/><animate attributeName="opacity" values=".5;0;.5" dur="1.6s" repeatCount="indefinite"/></circle>
+<circle class="ok" cx="38" cy="42" r="5"/>
+<text class="t2" x="52" y="47" font-size="13">live · 3rd of 650+ teams</text>
+<text class="t1" x="414" y="48" font-size="20" text-anchor="end">↗<animateTransform attributeName="transform" type="translate" values="0 0;3 -3;0 0" dur="2s" repeatCount="indefinite"/></text>
+<text class="t1" x="36" y="88" font-size="24" font-weight="600">FD Salahkar</text>
+<text class="t2" x="36" y="116" font-size="14">Vernacular voice advisor for fixed deposits,</text>
+<text class="t2" x="36" y="136" font-size="14">with multilingual speech in and out.</text>
+<g font-size="12" text-anchor="middle">
+<rect class="ch" x="36" y="152" width="76" height="26" rx="13"/><text class="t1" x="74" y="170">Gemma-2B</text>
+<rect class="ch" x="120" y="152" width="55" height="26" rx="13"/><text class="t1" x="147.5" y="170">FAISS</text>
+<rect class="ch" x="183" y="152" width="76" height="26" rx="13"/><text class="t1" x="221" y="170">Deepgram</text>
+<rect class="ch" x="267" y="152" width="83" height="26" rx="13"/><text class="t1" x="308.5" y="170">Sarvam AI</text>
+</g>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="450" height="200" viewBox="0 0 450 200" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif">
+<style>.b{fill:#fde7f0}.t1{fill:#72243e}.t2{fill:#993556}.ch{fill:#ffffff;fill-opacity:.75}.ok{fill:#1a7f37}
+@media (prefers-color-scheme:dark){.b{fill:#4b1528}.t1{fill:#f4c0d1}.t2{fill:#ed93b1}.ch{fill:#000000;fill-opacity:.25}.ok{fill:#3fb950}}</style>
+<rect class="b" x="12" y="10" width="426" height="180" rx="18"/>
+<circle class="ok" cx="38" cy="42" r="5"><animate attributeName="r" values="5;11;5" dur="1.6s" repeatCount="indefinite"/><animate attributeName="opacity" values=".5;0;.5" dur="1.6s" repeatCount="indefinite"/></circle>
+<circle class="ok" cx="38" cy="42" r="5"/>
+<text class="t2" x="52" y="47" font-size="13">live · full-stack</text>
+<text class="t1" x="414" y="48" font-size="20" text-anchor="end">↗<animateTransform attributeName="transform" type="translate" values="0 0;3 -3;0 0" dur="2s" repeatCount="indefinite"/></text>
+<text class="t1" x="36" y="88" font-size="24" font-weight="600">VITB Nexis</text>
+<text class="t2" x="36" y="116" font-size="14">Campus blog platform with JWT admin auth</text>
+<text class="t2" x="36" y="136" font-size="14">and TF-IDF related-post recommendations.</text>
+<g font-size="12" text-anchor="middle">
+<rect class="ch" x="36" y="152" width="55" height="26" rx="13"/><text class="t1" x="63.5" y="170">React</text>
+<rect class="ch" x="99" y="152" width="69" height="26" rx="13"/><text class="t1" x="133.5" y="170">Express</text>
+<rect class="ch" x="176" y="152" width="69" height="26" rx="13"/><text class="t1" x="210.5" y="170">MongoDB</text>
+</g>
+</svg>
