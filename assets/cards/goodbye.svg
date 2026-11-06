@@ -4,15 +4,15 @@
 @media (prefers-color-scheme:dark){.bg{fill:#3d1f17}.t1{fill:#f5c4b3}.t2{fill:#f0997b}.sp{fill:#f5c4b3}}</style>
 <rect class="bg" x="20" y="10" width="858" height="220" rx="18"/>
 <g><animateTransform attributeName="transform" type="translate" values="0 0;0 -5;0 0" dur="2s" repeatCount="indefinite"/>
-<path d="M88 120 Q86 60 150 58 Q214 60 212 120 L214 176 Q200 184 188 176 L186 140 L114 140 L112 176 Q100 184 86 176 Z" fill="#b9b2f0" stroke="#3c3489" stroke-width="2.5" stroke-linejoin="round"/>
+<path d="M88 120 Q86 60 150 58 Q214 60 212 120 L214 176 Q200 184 188 176 L186 140 L114 140 L112 176 Q100 184 86 176 Z" fill="#f2dba8" stroke="#b9893f" stroke-width="2.5" stroke-linejoin="round"/>
 <path d="M104 232 Q106 182 150 178 Q194 182 196 232 Z" fill="#9fe1cb" stroke="#0f6e56" stroke-width="2.5"/>
 <path d="M141 188 L139 208 M159 188 L161 208" stroke="#0f6e56" stroke-width="2" stroke-linecap="round"/>
 <rect x="142" y="162" width="16" height="18" fill="#ffe9df"/>
 <ellipse cx="150" cy="124" rx="46" ry="44" fill="#ffe9df" stroke="#5a2414" stroke-width="2.5"/>
-<path d="M102 118 Q104 70 150 68 Q196 70 198 118 Q186 98 172 104 Q160 92 150 104 Q138 92 126 104 Q114 98 102 118 Z" fill="#b9b2f0" stroke="#3c3489" stroke-width="2" stroke-linejoin="round"/>
+<path d="M102 118 Q104 70 150 68 Q196 70 198 118 Q186 98 172 104 Q160 92 150 104 Q138 92 126 104 Q114 98 102 118 Z" fill="#f2dba8" stroke="#b9893f" stroke-width="2" stroke-linejoin="round"/>
 <path d="M182 82 l3 6 6 1 -4.5 4 1 6 -5.5-3 -5.5 3 1-6 -4.5-4 6-1z" fill="#fac775" stroke="#854f0b" stroke-width="1"/>
-<ellipse cx="132" cy="128" rx="5.5" ry="7.5" fill="#3d1f17"><animate attributeName="ry" values="7.5;7.5;1;7.5;7.5" keyTimes="0;.88;.92;.96;1" dur="4s" repeatCount="indefinite"/></ellipse>
-<ellipse cx="168" cy="128" rx="5.5" ry="7.5" fill="#3d1f17"><animate attributeName="ry" values="7.5;7.5;1;7.5;7.5" keyTimes="0;.88;.92;.96;1" dur="4s" repeatCount="indefinite"/></ellipse>
+<ellipse cx="132" cy="128" rx="5.5" ry="7.5" fill="#9b4a63"><animate attributeName="ry" values="7.5;7.5;1;7.5;7.5" keyTimes="0;.88;.92;.96;1" dur="4s" repeatCount="indefinite"/></ellipse>
+<ellipse cx="168" cy="128" rx="5.5" ry="7.5" fill="#9b4a63"><animate attributeName="ry" values="7.5;7.5;1;7.5;7.5" keyTimes="0;.88;.92;.96;1" dur="4s" repeatCount="indefinite"/></ellipse>
 <circle cx="134" cy="125" r="2" fill="#ffffff"><animate attributeName="opacity" values="1;1;0;1;1" keyTimes="0;.88;.92;.96;1" dur="4s" repeatCount="indefinite"/></circle>
 <circle cx="170" cy="125" r="2" fill="#ffffff"><animate attributeName="opacity" values="1;1;0;1;1" keyTimes="0;.88;.92;.96;1" dur="4s" repeatCount="indefinite"/></circle>
 <g fill="none" stroke="#3c3489" stroke-width="2.5"><circle cx="132" cy="128" r="13"/><circle cx="168" cy="128" r="13"/><path d="M145 128 h10"/></g>
