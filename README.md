@@ -22,10 +22,3 @@
   <a href="mailto:sameendhanimisetti@gmail.com"><img src="assets/cards/contact-email.svg" width="49%" alt="Email Sameen"></a>
   <a href="https://www.linkedin.com/in/sameen-dhanimisetti-5a8936278/"><img src="assets/cards/contact-linkedin.svg" width="49%" alt="Sameen on LinkedIn"></a>
 </p>
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sam1dh/sam1dh/output/snake-dark.svg">
-  <img src="https://raw.githubusercontent.com/sam1dh/sam1dh/output/snake-light.svg" width="100%" alt="Contribution graph as a pastel snake">
-</picture>
