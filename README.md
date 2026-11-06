@@ -23,4 +23,4 @@
   <a href="https://www.linkedin.com/in/sameen-dhanimisetti-5a8936278/"><img src="assets/cards/contact-linkedin.svg" width="49%" alt="Sameen on LinkedIn"></a>
 </p>
 
-<img src="assets/cards/goodbye.svg" width="100%" alt="A chibi girl in a headset waving — thanks for stopping by. Let's build something that talks back!">
+<img src="assets/cards/goodbye.svg" width="100%" alt="A blonde girl in a school shirt smiling — thanks for stopping by. Let's build something that talks back!">
