@@ -22,3 +22,5 @@
   <a href="mailto:sameendhanimisetti@gmail.com"><img src="assets/cards/contact-email.svg" width="49%" alt="Email Sameen"></a>
   <a href="https://www.linkedin.com/in/sameen-dhanimisetti-5a8936278/"><img src="assets/cards/contact-linkedin.svg" width="49%" alt="Sameen on LinkedIn"></a>
 </p>
+
+<img src="assets/cards/goodbye.svg" width="100%" alt="A chibi girl in a headset waving — thanks for stopping by. Let's build something that talks back!">

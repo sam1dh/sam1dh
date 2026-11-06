@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="240" viewBox="0 0 900 240" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" role="img">
+<title>An original chibi girl in a headset waving goodbye: thanks for stopping by!</title>
+<style>.bg{fill:#ffe4dc}.t1{fill:#7a2e1a}.t2{fill:#993c1d}.sp{fill:#f0997b}
+@media (prefers-color-scheme:dark){.bg{fill:#3d1f17}.t1{fill:#f5c4b3}.t2{fill:#f0997b}.sp{fill:#f5c4b3}}</style>
+<rect class="bg" x="20" y="10" width="858" height="220" rx="18"/>
+<g><animateTransform attributeName="transform" type="translate" values="0 0;0 -5;0 0" dur="2s" repeatCount="indefinite"/>
+<path d="M88 120 Q86 60 150 58 Q214 60 212 120 L214 176 Q200 184 188 176 L186 140 L114 140 L112 176 Q100 184 86 176 Z" fill="#b9b2f0" stroke="#3c3489" stroke-width="2.5" stroke-linejoin="round"/>
+<path d="M104 232 Q106 182 150 178 Q194 182 196 232 Z" fill="#9fe1cb" stroke="#0f6e56" stroke-width="2.5"/>
+<path d="M141 188 L139 208 M159 188 L161 208" stroke="#0f6e56" stroke-width="2" stroke-linecap="round"/>
+<rect x="142" y="162" width="16" height="18" fill="#ffe9df"/>
+<ellipse cx="150" cy="124" rx="46" ry="44" fill="#ffe9df" stroke="#5a2414" stroke-width="2.5"/>
+<path d="M102 118 Q104 70 150 68 Q196 70 198 118 Q186 98 172 104 Q160 92 150 104 Q138 92 126 104 Q114 98 102 118 Z" fill="#b9b2f0" stroke="#3c3489" stroke-width="2" stroke-linejoin="round"/>
+<path d="M182 82 l3 6 6 1 -4.5 4 1 6 -5.5-3 -5.5 3 1-6 -4.5-4 6-1z" fill="#fac775" stroke="#854f0b" stroke-width="1"/>
+<ellipse cx="132" cy="128" rx="5.5" ry="7.5" fill="#3d1f17"><animate attributeName="ry" values="7.5;7.5;1;7.5;7.5" keyTimes="0;.88;.92;.96;1" dur="4s" repeatCount="indefinite"/></ellipse>
+<ellipse cx="168" cy="128" rx="5.5" ry="7.5" fill="#3d1f17"><animate attributeName="ry" values="7.5;7.5;1;7.5;7.5" keyTimes="0;.88;.92;.96;1" dur="4s" repeatCount="indefinite"/></ellipse>
+<circle cx="134" cy="125" r="2" fill="#ffffff"><animate attributeName="opacity" values="1;1;0;1;1" keyTimes="0;.88;.92;.96;1" dur="4s" repeatCount="indefinite"/></circle>
+<circle cx="170" cy="125" r="2" fill="#ffffff"><animate attributeName="opacity" values="1;1;0;1;1" keyTimes="0;.88;.92;.96;1" dur="4s" repeatCount="indefinite"/></circle>
+<g fill="none" stroke="#3c3489" stroke-width="2.5"><circle cx="132" cy="128" r="13"/><circle cx="168" cy="128" r="13"/><path d="M145 128 h10"/></g>
+<ellipse cx="116" cy="148" rx="8" ry="5" fill="#f0997b" opacity=".5"/><ellipse cx="184" cy="148" rx="8" ry="5" fill="#f0997b" opacity=".5"/>
+<path d="M143 150 Q150 157 157 150" fill="none" stroke="#3d1f17" stroke-width="2.5" stroke-linecap="round"/>
+<path d="M92 116 A58 58 0 0 1 208 116" fill="none" stroke="#f0997b" stroke-width="7" stroke-linecap="round"/>
+<rect x="83" y="106" width="17" height="32" rx="8.5" fill="#f0997b" stroke="#993c1d" stroke-width="2"/><rect x="200" y="106" width="17" height="32" rx="8.5" fill="#f0997b" stroke="#993c1d" stroke-width="2"/>
+<path d="M91 136 Q94 164 126 166" fill="none" stroke="#f0997b" stroke-width="4" stroke-linecap="round"/><circle cx="130" cy="166" r="5" fill="#d4537e"/>
+<g><path d="M186 206 Q206 198 218 178" fill="none" stroke="#9fe1cb" stroke-width="14" stroke-linecap="round"/><circle cx="222" cy="170" r="11" fill="#ffe9df" stroke="#5a2414" stroke-width="2.5"/><animateTransform attributeName="transform" type="rotate" values="-12 188 206;14 188 206;-12 188 206" dur="1s" repeatCount="indefinite"/></g>
+</g>
+<g transform="translate(244 120)"><path d="M0 3C0-2-7-2-7 3C-7 7 0 10 0 12C0 10 7 7 7 3C7-2 0-2 0 3Z" fill="#ed93b1" opacity="0"><animateTransform attributeName="transform" type="translate" values="0 0;12 -70" dur="3s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;0" dur="3s" repeatCount="indefinite"/></path></g>
+<g transform="translate(64 112)"><path d="M0 3C0-2-7-2-7 3C-7 7 0 10 0 12C0 10 7 7 7 3C7-2 0-2 0 3Z" fill="#ed93b1" opacity="0"><animateTransform attributeName="transform" type="translate" values="0 0;-10 -70" dur="3s" begin="1s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;0" dur="3s" begin="1s" repeatCount="indefinite"/></path></g>
+<g transform="translate(258 92)"><path d="M0 3C0-2-7-2-7 3C-7 7 0 10 0 12C0 10 7 7 7 3C7-2 0-2 0 3Z" fill="#ed93b1" opacity="0"><animateTransform attributeName="transform" type="translate" values="0 0;8 -60" dur="3s" begin="2s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;0" dur="3s" begin="2s" repeatCount="indefinite"/></path></g>
+<path d="M306 112 L284 134 L326 118 Z" fill="#ffffff"/>
+<rect x="290" y="52" width="370" height="68" rx="20" fill="#ffffff"/>
+<text x="314" y="95" font-size="22" font-weight="600" fill="#7a2e1a">Thanks for stopping by!</text>
+<circle cx="616" cy="88" r="4" fill="#f0997b"><animate attributeName="opacity" values=".2;1;.2" dur="1.2s" begin="0s" repeatCount="indefinite"/></circle>
+<circle cx="630" cy="88" r="4" fill="#f0997b"><animate attributeName="opacity" values=".2;1;.2" dur="1.2s" begin=".2s" repeatCount="indefinite"/></circle>
+<circle cx="644" cy="88" r="4" fill="#f0997b"><animate attributeName="opacity" values=".2;1;.2" dur="1.2s" begin=".4s" repeatCount="indefinite"/></circle>
+<text class="t1" x="292" y="166" font-size="17" font-weight="600">Let's build something that talks back.</text>
+<text class="t2" x="292" y="194" font-size="14">Have a lovely day ✿</text>
+<g transform="translate(760 62)"><path class="sp" d="M0 -10L2.5 -2.5L10 0L2.5 2.5L0 10L-2.5 2.5L-10 0L-2.5 -2.5Z"><animateTransform attributeName="transform" type="scale" values=".4;1.1;.4" dur="2s" repeatCount="indefinite"/></path></g>
+<g transform="translate(828 126)"><path class="sp" d="M0 -10L2.5 -2.5L10 0L2.5 2.5L0 10L-2.5 2.5L-10 0L-2.5 -2.5Z"><animateTransform attributeName="transform" type="scale" values=".4;1.1;.4" dur="2s" begin=".7s" repeatCount="indefinite"/></path></g>
+<g transform="translate(724 180)"><path class="sp" d="M0 -10L2.5 -2.5L10 0L2.5 2.5L0 10L-2.5 2.5L-10 0L-2.5 -2.5Z"><animateTransform attributeName="transform" type="scale" values=".4;1.1;.4" dur="2s" begin="1.4s" repeatCount="indefinite"/></path></g>
+</svg>
