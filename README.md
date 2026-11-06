@@ -24,4 +24,4 @@
   <a href="assets/Sameen_Dhanimisetti_Resume.pdf">Resume</a>
 </p>
 
-<img src="assets/cards/goodbye.svg" width="100%" alt="An original teddy bear waving: Thanks for stopping by!">
+<img src="assets/cards/goodbye.svg" width="100%" alt="A dancing birthday bear in a pig costume: Thanks for stopping by!">
