@@ -68,6 +68,6 @@
   <path class="ic" d="M22 -14a16 16 0 0 1 0 20"><animate attributeName="opacity" values="0;1;0" dur="1.6s" repeatCount="indefinite"/></path>
   <path class="ic" d="M-22 -14a16 16 0 0 0 0 20"><animate attributeName="opacity" values="0;1;0" dur="1.6s" repeatCount="indefinite"/></path>
 </g>
-<text class="bl1" x="776" y="376" font-size="15" font-weight="600" text-anchor="middle">1st prize, speaking</text>
-<text class="bl2" x="776" y="396" font-size="12" text-anchor="middle">+ college debate winner</text>
+<text class="bl1" x="776" y="376" font-size="15" font-weight="600" text-anchor="middle">Loves public speaking</text>
+<text class="bl2" x="776" y="396" font-size="12" text-anchor="middle">+ debate competitions</text>
 </svg>

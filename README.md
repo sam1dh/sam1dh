@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/bento-dark.svg">
-  <img src="assets/bento-light.svg" width="100%" alt="Hi, I'm Sameen — I build voice agents. Building now: Voice Forms AI.">
+  <img src="assets/bento-light.svg" width="100%" alt="Hi, I'm Sameen — I build full-stack + GenAI apps. Building now: agentic workflows.">
 </picture>
 
 ### Selected work
