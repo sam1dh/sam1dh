@@ -3,8 +3,6 @@
   <img src="assets/bento-light.svg" width="100%" alt="Hi, I'm Sameen — I build voice agents. Building now: Voice Forms AI.">
 </picture>
 
-<img src="assets/cards/pipeline.svg" width="100%" alt="How my voice agents work: mic → speech-to-text (Deepgram) → LLM with RAG (pgvector + Mem0) → text-to-speech (Cartesia, Sarvam) → spoken reply">
-
 ### Selected work
 <p>
   <a href="https://github.com/sam1dh/Vernacular-FD-Advisor"><img src="assets/cards/work-fd.svg" width="49%" alt="FD Salahkar"></a>
